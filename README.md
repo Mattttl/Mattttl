@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mattttl you can call me Mattt
 - 👀 I’m interested in minecraft datapack creation
 - 🌱 I’m currently learning minecraft datapack creation
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on mapmaking
+- 📋 Note: Im also learning python!
 
 
 <!---
